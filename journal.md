@@ -14,3 +14,10 @@ The topic I asked him to do was about the water cycle. Since it was a basic topi
 | Fiona    | Gado Gado       | Creme Brulee      |
 | Tobias   | Shrimp Ceviche	 |French Apple Cake  |
 | Leanne   | Beef Wellington |Raspberry Tiramisu |
+# October 27, 2025
+Option 2: Cooking Class Logic Puzzle
+| Name     | Main Dish | Dessert     |
+| :---     |    :----:       |          ---: |
+| Franklin    | Second      |91A   |
+| Hardeep   | Third	 |French 61F  |
+| Marla   | First |35B|
