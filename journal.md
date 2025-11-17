@@ -24,3 +24,6 @@ Option 2: Cooking Class Logic Puzzle
 # November 3, 2025
 If the SNAP program were to run out of funding, many families would face serious food insecurity, impacting their health and well-being, those most affected would be low-income families, families with children, and seniors who rely on this assistance to survive. Technology could mitigate this problem through apps that connect people with nearby food banks and provide information about free food programs, centralized platform would facilitate food donations and streamline delivery logistics; challenges such as the digital divide and a lack of technological skills could limit access to these solutions, if I could design such a tool,  would create an app called "Food Network," which would not only locate resources but also allow users to share recipes and donate easily; this would help connect those who need help with those who can offer it, creating a supportive community.
 # November 10, 2025
+I'm using my free ticket
+# Noviembre 17, 2025
+No, not really, because I'll have to work. The only thing that excites me is the day because we'll cook something delicious that night.
