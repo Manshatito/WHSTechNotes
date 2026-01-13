@@ -33,3 +33,6 @@ Drones have become an incredibly useful part of our daily lives, think of the Am
 There are cases where someone might not have seen it by accident, but that's ridiculous because it's large, and when driving, you should be focused to avoid any accidents. Even if that were the case, we must always remember that it's important to respect traffic signs, especially those for a school bus. Putting myself in the shoes of a Waymo programmer, I would program the cameras to issue a fine instantly, and after a certain number of fines, have the driver's license revoked and, of course, affect their driving record.  Of course, there might be cases where the license plate is blurry, covered, or, in the worst-case scenario, missing. In those circumstances, the AI ​​could be programmed to try to identify the vehicle, and the police could then stop the driver, as they could cause accidents involving students or simply crash.
 # December 15, 2025
 Hmmm I dont know, Most likely I'll be resting, and maybe working a few days. I'm really excited because my grandparents and my aunts and uncles are coming to spend Christmas and New Year's with us.
+# January 6,2026
+During this break, I honestly only used technology, as I spent my time at home on my phone, playing video games, and when I went to the gym, I used my AirPods.
+# January 8, 2026
