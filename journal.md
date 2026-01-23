@@ -35,4 +35,6 @@ There are cases where someone might not have seen it by accident, but that's rid
 Hmmm I dont know, Most likely I'll be resting, and maybe working a few days. I'm really excited because my grandparents and my aunts and uncles are coming to spend Christmas and New Year's with us.
 # January 6,2026
 During this break, I honestly only used technology, as I spent my time at home on my phone, playing video games, and when I went to the gym, I used my AirPods.
-# January 8, 2026
+# January 9, 2026
+# January 12, 2026
+Autcraft was created by a dad named Stuart Duncan who realized that many children with autism didn't have a safe place to play Minecraft without being harassed by other users. These safe spaces are important because the regular internet is full of toxicity and bullying that can affect people, especially those who are more sensitive. I believe that developers need to design rules, because it's not fair when people only join to cause trouble. For example, Autcraft uses things like a "whitelist" to control who can join and has moderators who understand the community, which makes playing the game much more enjoyable. If creators don't address these issues, their games will eventually become unpleasant places where no one wants to play, which is why communities like study groups on Discord or well-moderated servers are so valuable today.
