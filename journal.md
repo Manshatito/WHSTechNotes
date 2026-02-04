@@ -44,3 +44,8 @@ One important way that technology helps create a more just society is by making 
 I'm not sure what the exam was exactly, but it was in English and math. I feel anxious about my performance because I honestly think I did poorly and failed the math section because of the formulas.
 One thing I did well was the English part, but I had difficulty with some of the questions.
 I think preparing for the exam would help me with a quick review.
+# February 2, 2026
+Personal hygiene is important because you interact with people all day, and it's unpleasant to arrive and be dirty or smell bad in a shared space. People should be aware that bad odors are very disruptive because they prevent you from concentrating and make it impossible to feel comfortable in a space.
+Whether we like it or not, we must behave better in all aspects, such as hygiene, using respectful language, maintaining an appropriate speaking volume, exercising self-control, etc.
+Self-regulation is important both for oneself and for others, since your attitudes and reactions also affect those around you, and that reflects very poorly on you.
+One habit I can work on is communication, specifically asking for help with things I don't understand or can't do.
