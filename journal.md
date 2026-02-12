@@ -49,3 +49,9 @@ Personal hygiene is important because you interact with people all day, and it's
 Whether we like it or not, we must behave better in all aspects, such as hygiene, using respectful language, maintaining an appropriate speaking volume, exercising self-control, etc.
 Self-regulation is important both for oneself and for others, since your attitudes and reactions also affect those around you, and that reflects very poorly on you.
 One habit I can work on is communication, specifically asking for help with things I don't understand or can't do.
+# February 10, 2026
+1.Do you enjoy football? Why or why not?
+Yes, I do like the Super Bowl. I find it an entertaining sport, especially to enjoy with the family.
+2.Did you watch Super Bowl LX?
+No, I couldn't see it because I had to go out with my family that day and I missed it.
+3.If you watched, what was your opinion?
