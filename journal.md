@@ -55,3 +55,39 @@ Yes, I do like the Super Bowl. I find it an entertaining sport, especially to en
 2.Did you watch Super Bowl LX?
 No, I couldn't see it because I had to go out with my family that day and I missed it.
 3.If you watched, what was your opinion?
+# February 23, 2026
+# Prompt (C.E.R.) — 2026 Winter Olympics Technology
+Claim: I think wearable sensors were the coolest and most important tech used in the 2026 Winter Olympics because of how they helped with safety and performance.
+
+Evidence: These sensors were used a lot in snowboarding, where athletes had tiny devices on their gear to track their heart rate, balance, and the force of their landings in real time.
+
+Reasoning:This technology is a game changer because it lets coaches see exactly when an athlete is pushing too hard or might get injured, which keeps everyone way safer. It’s still fair and a great tool because it helps athletes fix their mistakes using actual data instead of just guessing. My only concern is that it might make the sport feel a bit too much like a science project, but for keeping people safe during crazy stunts, it's definitely worth it.
+Extension 
+I think there should be some limits on tech so the Olympics stay about human talent and not just who has the best gear. It’s fine for safety, but we shouldn't let gadgets do all the work for the athletes.
+# March 2, 2026
+PART A
+Data or Digital Analyst (H-E-B Digital)
+Cybersecurity Analyst / Cyber Business Analyst (Booz Allen Hamilton)
+
+PART B
+JOB #1
+Company: HEB Digital
+Position: Software Engineer II (Mobile/iOS)
+Education Required: Bachelor's degree in Computer Science or related field.
+Experience Required: At least 2 years of programming experience.
+Skills/Tools/Languages: Essential knowledge of Swift (for iPhone), SwiftUI, Xcode, and Git.
+Certifications: Not required, but knowledge of agile methodologies is valued.
+Job Description: My responsibilities would include the design and development of new features for the HEB app that everyone in Texas uses for grocery shopping, ensuring clean code and a stable application.
+
+JOB #2
+Company: Booz Allen Hamilton
+Position: Junior Cybersecurity Analyst
+Education Required: Bachelor's degree in Cybersecurity, IT, or related technical field.
+Experience Required: 0-2 years.
+Skills/Tools/Languages: Knowledge of networking (TCP-IP), experience with tools like Nessus, and proficiency in Linux commands.
+Certifications: I need to obtain the CompTIA Security+ certification within the first 6 months.
+Job Description: My role will be to protect confidential information and ensure that hackers do not access the networks, as well as verify that everything complies with government security regulations.
+
+PART C— C.E.R. Paragraph
+Honestly, I'd much rather be a Cybersecurity Analyst at Booz Allen Hamilton. A major reason is that the job requires CompTIA Security+ certification, which motivates me because it's a realistic goal I can achieve to demonstrate my skills. Also, the fact that they require knowledge of TCP/IP networks is very appealing because I've always been curious about how information travels across the internet without being stolen. This aligns perfectly with my interests because in my technology classes I've realized I enjoy protecting systems more than designing apps. My future plan is to work in something related to national security; I feel this path is much more exciting and better suited to my personality than coding in an office all day.
+
