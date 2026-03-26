@@ -92,7 +92,11 @@ PART C— C.E.R. Paragraph
 Honestly, I'd much rather be a Cybersecurity Analyst at Booz Allen Hamilton. A major reason is that the job requires CompTIA Security+ certification, which motivates me because it's a realistic goal I can achieve to demonstrate my skills. Also, the fact that they require knowledge of TCP/IP networks is very appealing because I've always been curious about how information travels across the internet without being stolen. This aligns perfectly with my interests because in my technology classes I've realized I enjoy protecting systems more than designing apps. My future plan is to work in something related to national security; I feel this path is much more exciting and better suited to my personality than coding in an office all day.
 # MARCH 23, 2026
 ~I selected the data for the table somewhat by guesswork, since I don't know all the teams; however, for the ones I was more or less familiar with, I based my choices on their performance.
+
 ~For me, it was somewhat entertaining, but I think everyone is trying their best.
+
 ~It would be very helpful to know the rankings or statistics, so that we can get an idea of ​​how things stand and rule out certain options.
+
 ~They could include all the teams' statistics and scores in the program, and then use that to make comparisons to see which teams have the highest probability of winning or advancing to the next round.
+
 ~I think the only type of jobs available might be those involving programming sports betting websites or apps.
